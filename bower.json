@@ -1,0 +1,19 @@
+{
+  "name": "PhotoSticker",
+  "description": "A photo upload application",
+  "main": "index.html",
+  "moduleType": [],
+  "authors": [
+    "Justin Mathews"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "1.9.1",
+    "bootstrap": "*",
+    "angular": "*",
+    "angular-bootstrap": "*",
+    "ng-file-upload": "~9.1.2"
+  }
+}

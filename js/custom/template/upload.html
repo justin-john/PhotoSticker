@@ -1,0 +1,10 @@
+<div class="row">
+    <button type="button" class="btn btn-primary" ngf-select ng-model="file" name="photoFile" ngf-pattern="'image/*'" ngf-fix-orientation="false" accept="image/*" ngf-max-size="20MB" ngf-min-height="100">
+        SELECT {{type | uppercase}}
+    </button>
+    <br>
+    <br>
+</div>
+<div class="row">
+    <button name="imgSubmit" class="btn disabled" type="submit" ng-click="photoSubmit(type)">No file to Upload</button>
+</div>

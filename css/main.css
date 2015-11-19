@@ -1,0 +1,15 @@
+.text-underline {
+    text-decoration: underline;
+}
+.jumbotron {
+    background: url(bg.png) center center transparent;
+    margin-top: -30px;
+    margin-bottom: 0;
+    border-bottom: 0;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-radius: 0;
+    text-align: center;
+    color: #fcf1de;
+    font-size: 175%
+}
